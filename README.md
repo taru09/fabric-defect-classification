@@ -61,3 +61,11 @@ fabric_defect_project/
 └── report/
     └── fabric_defect_classification_report.pdf
 ```
+## Roboflow Project
+
+**Public Roboflow Models:**  
+[View Fabric Detection Models](https://app.roboflow.com/prashansas-workspace/fabric-detection-yhlkp/models)
+
+The project contains two trained DINOv3 classification models:
+- Original model (without augmentation)
+- Augmented model (horizontal flip and rotation)
